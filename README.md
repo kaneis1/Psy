@@ -34,8 +34,8 @@ This project aims to classify MBTI personality types from text data using a cust
 ## ⚙️ Training Configuration
 
 * **Framework**: Hugging Face `Trainer`
-* **Device**: GPU or CPU depending on availability
-* **Epochs**: 10
+* **Device**: GPU 
+* **Epochs**: 100
 * **Batch Size**: 8
 * **Save Strategy**: Manual save of tokenizer
 
